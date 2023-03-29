@@ -1,0 +1,14 @@
+name: audio_analyzer
+title: Audio Analyzer
+username:
+account: xxelementsxx888
+server: posit.cloud
+hostUrl: https://api.shinyapps.io/v1
+appId: 8662087
+bundleId: 7002018
+url: https://posit.cloud/content/5663082
+when: 1679650233.39846
+lastSyncTime: 1679650233.39847
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|analyzer_app.R|app.R

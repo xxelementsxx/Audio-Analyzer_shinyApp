@@ -6,13 +6,10 @@ library(phonTools)
 library(ggplot2)
 
 
-#send image to mail
-#include ogg
-#label and download the audio files
 
 
 ui <- fluidPage(
-  titlePanel("Audio Spectrogram"),
+  titlePanel("Audio Spectrogram"),          
   sidebarLayout(
     sidebarPanel(
       fileInput("file", "Choose an audio file in WAV format:")
